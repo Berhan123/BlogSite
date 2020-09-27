@@ -1,0 +1,17 @@
+{
+  "yazilar": [
+    {
+    "icerik":"",
+    "time":"",
+    "user_id":"",
+    "title":"",
+    "image":""
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Elektronik"
+    }
+  ]
+}
